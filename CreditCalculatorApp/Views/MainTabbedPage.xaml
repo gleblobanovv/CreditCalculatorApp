@@ -1,0 +1,9 @@
+﻿<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+            xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+            xmlns:local="clr-namespace:CreditCalculatorApp.Views"
+            x:Class="CreditCalculatorApp.Views.MainTabbedPage">
+
+    <local:CreditCalculatorPage Title="Кредитный калькулятор" />
+    <local:CurrencyRatesPage Title="Курсы валют" />
+
+</TabbedPage>

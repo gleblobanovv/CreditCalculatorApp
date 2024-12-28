@@ -1,0 +1,14 @@
+﻿<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CreditCalculatorApp.Views.LoginPage">
+    <StackLayout Padding="20">
+        <Label Text="Вход" FontSize="Large" HorizontalOptions="Center" />
+
+        <Entry x:Name="entryFirstName" Placeholder="Имя" />
+        <Entry x:Name="entryLastName" Placeholder="Фамилия" />
+        <Entry x:Name="entryPassword" Placeholder="Пароль" IsPassword="True" />
+
+        <Button Text="Войти" Clicked="OnLoginButtonClicked" />
+        <Button Text="Зарегистрироваться" Clicked="OnRegisterButtonClicked" />
+    </StackLayout>
+</ContentPage>

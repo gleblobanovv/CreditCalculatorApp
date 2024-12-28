@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CreditCalculatorApp.Views.CurrencyRatesPage">
+    <StackLayout Padding="20">
+        <Label Text="Курсы валют" FontSize="24" HorizontalOptions="Center" />
+        <Label Text="Центробанк РФ:" />
+        <Label Text="USD: 80.000" />
+        <Label Text="EUR: 86.000" />
+    </StackLayout>
+</ContentPage>

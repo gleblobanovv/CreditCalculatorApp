@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditCalculatorApp.Android", "CreditCalculatorApp.Android\CreditCalculatorApp.Android.csproj", "{49FDE8F7-F55C-488D-8349-213F7FFF4543}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditCalculatorApp", "CreditCalculatorApp\CreditCalculatorApp.csproj", "{B424058B-9FA7-45EA-9EA8-FB53E60FC99A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49FDE8F7-F55C-488D-8349-213F7FFF4543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49FDE8F7-F55C-488D-8349-213F7FFF4543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49FDE8F7-F55C-488D-8349-213F7FFF4543}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{49FDE8F7-F55C-488D-8349-213F7FFF4543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49FDE8F7-F55C-488D-8349-213F7FFF4543}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49FDE8F7-F55C-488D-8349-213F7FFF4543}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{B424058B-9FA7-45EA-9EA8-FB53E60FC99A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B424058B-9FA7-45EA-9EA8-FB53E60FC99A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B424058B-9FA7-45EA-9EA8-FB53E60FC99A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B424058B-9FA7-45EA-9EA8-FB53E60FC99A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B424058B-9FA7-45EA-9EA8-FB53E60FC99A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B424058B-9FA7-45EA-9EA8-FB53E60FC99A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28E0EAF0-046A-41BC-865E-192EC9C7A5D2}
+	EndGlobalSection
+EndGlobal
